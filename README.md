@@ -5,20 +5,19 @@ FusionEdit is an advanced image editing tool that integrates powerful segmentati
 
 - [ ] Stable Diffusion Editing: Artistic and creative image editing through diffusion models.
 
-- [ ] Auto-Enhance: Automatic image quality improvement using super resolution.
+- [ ] Auto-Enhance: Automatic image quality improvement using super resolution.**(Future Scope)**
 
 ## Features
 * Segment Anything Integration: Use point-based segmentation to identify and edit specific areas of an image.
 * Stable Diffusion Editing: Apply artistic and creative edits through diffusion models.
-* Auto-Enhance: Automatically improve image resolution and quality using super resolution techniques.
-User-Friendly Interface: Easy-to-use tools for basic editing, layer management, and more.
+* Auto-Enhance: Automatically improve image resolution and quality using super resolution techniques.**(Future Scope)**
 
 ## Technologies Used
 1. Segment Anything: Provides segmentation capabilities through point input, allowing precise and flexible selection of image areas.
 2. Stable Diffusion(Image Impainting): Utilized for advanced, artistic editing and transformation of images.
-3. Super Resolution: Enhances image resolution and quality in the Auto-Enhance feature, improving clarity and detail.
+3. Super Resolution: Enhances image resolution and quality in the Auto-Enhance feature, improving clarity and detail.**(Future Scope)**
 
-## Auto-Enhance Feature
+## Auto-Enhance Feature **(Future Scope)**
 The Auto-Enhance feature aims to automatically improve the quality of images using super resolution. This process involves the following steps:
 1. Input Image: The user provides an image to be enhanced.
 2. Preprocessing: The image is preprocessed to prepare it for super resolution. This may include resizing or normalization.
